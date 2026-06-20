@@ -6,14 +6,31 @@ A command-line implementation of Othello (Reversi) where the computer opponent i
 
 ## Demo
 
-![Mid-game terminal view, showing the AI's execution time and chosen move](Screenshot%202026-06-20%20100514.png)
-*The AI prints its execution time and chosen move after every turn.*
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="Screenshot%202026-06-20%20100514.png" width="450">
 
-![Another in-progress match, showing the board and the human player's valid moves](Screenshot%202026-06-20%20100620.png)
-*Board state and the list of valid moves offered to the human player.*
+<br>
 
-![End-of-game leaderboard and AI execution-time summary](Screenshot%202026-06-20%20100709.png)
-*End-of-game leaderboard, plus the AI execution-time summary (min / max / average across the whole match).*
+<em>Mid-game terminal view, showing the AI's execution time and chosen move after every turn.</em>
+</td>
+
+<td align="center" width="50%">
+<img src="Screenshot%202026-06-20%20100620.png" width="450">
+
+<br>
+
+<em>Board state and the list of valid moves offered to the human player.</em>
+</td>
+</tr>
+</table>
+
+<img src="Screenshot%202026-06-20%20100709.png" width="450">
+
+<br>
+
+<em>End-of-game leaderboard, plus the AI execution-time summary (min / max / average across the whole match).</em>
 
 ---
 
